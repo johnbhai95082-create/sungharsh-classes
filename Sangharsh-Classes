@@ -1,0 +1,33 @@
+Sangharsh-Classes
+│
+├── index.<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>संघर्ष क्लासेज | Class 6 to 12</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>संघर्ष क्लासेज</h1>
+
+    <p>Class 6th to 12th Study Material</p>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+├── style.body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 45px;
+}
+└── script.console.log("संघर्ष क्लासेज Website Started!");
